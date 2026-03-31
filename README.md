@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Billing System (Terminal-Based)
+# 🍽️ Restaurant Billing System 
 
 A simple and interactive terminal-based restaurant application built using Python.  
 This project allows users to browse menu categories, add items to a cart, edit/remove items, and generate a final bill including GST.
